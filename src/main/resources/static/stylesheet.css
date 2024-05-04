@@ -1,0 +1,36 @@
+label{
+    display: inline;
+}
+
+input{
+    margin-bottom: 5px;
+    min-width: 50px;
+}
+
+button{
+    margin-bottom: 1vh;
+}
+
+p {
+    margin-bottom:  1em;
+}
+
+#antall{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    max-width: 20px;
+}
+
+.feilinput{
+    color: red;
+}
+
+#oppdaterBokser{
+    border: solid red;
+}
+
+#rekesmørbrød{
+    position: fixed;
+    max-width: 500px;
+    margin-left: 1000px;
+}
